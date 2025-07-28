@@ -1,2 +1,2 @@
-# pwsh
-Powershell dotfile
+# PowerShell
+My PowerShell dotfile
